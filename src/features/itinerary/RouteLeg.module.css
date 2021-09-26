@@ -1,0 +1,32 @@
+.leg {
+  display: inline-flex;
+  border: 1px solid white;
+  border-radius: 5px;
+  height: 28px;
+  padding: 2px;
+  background-color: #dddddc;
+  align-items: center;
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+}
+
+.WALK {
+  color: #222;
+}
+
+.SUBWAY {
+  background-color: #ff6319;
+}
+
+.BUS {
+  background-color: #007ac9;
+}
+
+.TRAM {
+  background-color: #00985f;
+}
+
+.RAIL {
+  background-color: #8c4799;
+}

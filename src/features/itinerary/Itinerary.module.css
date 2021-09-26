@@ -1,0 +1,16 @@
+.wrapper {
+  display: block !important;
+}
+
+.durationWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.startAndEndTime {
+  font-weight: bold;
+}
+
+.duration {
+  font-weight: bold;
+}
